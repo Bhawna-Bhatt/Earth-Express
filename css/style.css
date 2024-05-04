@@ -1,6 +1,24 @@
 @media screen and (max-width:500px) {
 .navbar {
-    float:none;
-    display:block;
+    display: none;
 }
+}
+
+.carousel-item img {
+    
+        height: 400px;
+        width: 10px;
+      
+} 
+p {
+    padding: 10px;
+}
+
+.footer {
+    padding:0;
+    margin:10px;
+}
+
+.dummycontainer {
+    height:100px;
 }
