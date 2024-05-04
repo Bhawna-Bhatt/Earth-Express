@@ -1,8 +1,10 @@
-@media screen and (max-width:500px) {
-.navbar {
-    display: none;
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url('../images/Earth Express Background.png');
+    background-repeat: repeat;
 }
-}
+
 
 .carousel-item img {
     
